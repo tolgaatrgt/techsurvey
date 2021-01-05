@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.7.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "react": "^16.10.2",
     "react-checkbox-group": "^5.0.2",
     "react-checkbox-list": "0.0.2",
